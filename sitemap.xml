@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://reactionfitness.github.io</loc>
+    <loc>https://reactionfitness.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://reactionfitness.github.io/</loc>
+    <loc>https://reactionfitness.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://reactionfitness.github.io/tags/</loc>
+    <loc>https://reactionfitness.github.io/</loc>
     <priority>0</priority>
   </url>
   
